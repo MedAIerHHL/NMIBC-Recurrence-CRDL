@@ -1,2 +1,2 @@
 # NMIBC-Recurrence-CRDL
-Official Python Implementation for "Assessing 5  -year Recurrence Risk of Non-muscle-invasive Bladder Cancer Using Multiparametric- MRI-based Deep Learning Radiomics with Clinical Factors" (Under Review).
+Official Python Implementation for "Multiparametric MRI-based Deep Learning Radiomics Model for Assessing 5-year Recurrence Risk in Non-muscle Invasive Bladder Cancer" (Journal of Magnetic Resonance Imaging).
